@@ -1,4 +1,4 @@
-# 🐱 Gaticos — Galería de Razas con React + Vite
+#  Gaticos — Galería de Razas con React + Vite
 
 Aplicación web desarrollada como laboratorio introductorio a React, que muestra una galería interactiva de razas de gatos con imágenes, videos y fichas técnicas servidas desde **Azure Blob Storage**.
 
@@ -10,7 +10,7 @@ La app renderiza una colección de 8 razas felinas en tarjetas visuales. Cada ta
 
 ---
 
-## 🧱 Estructura del proyecto
+##  Estructura del proyecto
 ```
 src/
 ├── components/
@@ -30,7 +30,7 @@ src/
 
 ---
 
-## ⚙️ Tecnologías
+##  Tecnologías
 
 - **React 19** — librería de interfaces de usuario
 - **Vite 7** — bundler y servidor de desarrollo
@@ -40,7 +40,7 @@ src/
 
 ---
 
-## 🚀 Cómo correr el proyecto
+##  Cómo correr el proyecto
 ```bash
 # 1. Instalar dependencias
 npm install
@@ -55,7 +55,7 @@ npm run dev
 
 ---
 
-## 🔧 Scripts disponibles
+##  Scripts disponibles
 
 | Comando | Descripción |
 |---|---|
@@ -66,6 +66,6 @@ npm run dev
 
 ---
 
-## 🗂️ Funcionalidades
+##  Funcionalidades
 
 - Galería en
